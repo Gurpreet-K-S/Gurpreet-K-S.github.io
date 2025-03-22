@@ -1,2 +1,2 @@
-theme: minimal
+remote_theme: jekyll/minimal
 style: "/assets/css/style.css"
