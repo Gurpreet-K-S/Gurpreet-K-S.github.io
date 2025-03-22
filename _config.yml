@@ -3,9 +3,18 @@
 # plugins:
 #   - jekyll-remote-theme
 
-remote_theme: pages-themes/cayman@v0.2.0
-# remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/modernist@v0.2.0
-# remote_theme: pages-themes/leap-day@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+# # remote_theme: pages-themes/slate@v0.2.0
+# # remote_theme: pages-themes/modernist@v0.2.0
+# # remote_theme: pages-themes/leap-day@v0.2.0
 
-style: "/assets/css/style.css"
+# style: "/assets/css/style.css"
+# include: ["assets/css/custom.css"]
+
+# --------------------------------------------------
+# Apply the Cayman theme
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Enable Jekyll plugins (required for remote themes)
+plugins:
+  - jekyll-remote-theme
