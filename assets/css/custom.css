@@ -1,0 +1,23 @@
+/* Apply a clean, modern font and improve readability */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 900px; /* Prevents content from stretching too wide */
+}
+
+/* Improve heading visibility */
+h1, h2 {
+    color: #0056b3;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Hide the GitHub Pages footer */
+.site-footer {
+    display: none !important;
+}
+
