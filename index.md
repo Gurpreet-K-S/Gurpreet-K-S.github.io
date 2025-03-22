@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Welcome to My Data Science Portfolio 🚀  
 
 Hi, I'm **Gurpreet Kaur**, a data science enthusiast.  
